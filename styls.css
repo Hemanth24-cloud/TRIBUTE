@@ -1,0 +1,25 @@
+.container{
+    width: 1000px;
+    margin: auto;
+    background-color: black;
+}
+.top
+{
+height: 100px;
+text-align: center;
+color: aliceblue;
+margin-top: 50px;
+
+}
+
+
+.below{
+color: black;
+text-align: justify;
+color: aliceblue;
+}
+.bottom{
+text-align: center;
+color: black;
+color: aliceblue;
+}
